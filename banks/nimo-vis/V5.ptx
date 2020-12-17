@@ -1,0 +1,21 @@
+<exercise>
+  <statement>
+    <p>Consider the statement
+        <claim> Vectors <m>\vec{u}</m> and <m>\vec{v}</m> 
+            <xsl:choose>
+                <xsl:when test="independent"> are linearly independent.</xsl:when>
+                <xsl:otherwise> are linearly dependent.</xsl:otherwise>
+            </xsl:choose>
+        </claim>
+        Does the diagram correctly depict the relationship between them?
+	</p>
+  </statement>
+  <answer>
+    <p>
+        <xsl:choose>
+            <xsl:when test="independent">The vectors should not be colinear in the diagram. </xsl:when>
+            <xsl:otherwise>The vectors should be colinear in the diagram.</xsl:otherwise>
+        </xsl:choose>
+    </p>
+  </answer>
+</exercise>

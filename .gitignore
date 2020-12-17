@@ -1,6 +1,11 @@
 *.sage-jupyter2
 *.sage.py
 build
-banks/*
+banks/clonz-diff-eq/*
+banks/tbil-la/*
 !banks/build.ipynb
 !banks/preview.ipynb
+!banks/*.sh
+.DS_Store
+.vscode
+.ipynb_checkpoints

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+	<title>Visual Problems</title>
+	<author>Wode Ni</author>
+	<url>https://github.com/StevenClontz/tbil-la/</url>
+	<slug>nimo-vis</slug>
+	<objectives>
+		<objective>
+			<title>Linear independence</title>
+			<slug>V5</slug>
+		</objective>
+	</objectives>
+</bank>
